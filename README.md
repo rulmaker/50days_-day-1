@@ -1,1 +1,3 @@
-# 50days_-day-1
+# 50days_day-1
+
+Slider manual sencillo.
